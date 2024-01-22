@@ -1,0 +1,7 @@
+.vscode
+build
+buildWin
+buildMGW
+*1.txt
+*2.txt
+*3.txt
